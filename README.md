@@ -27,7 +27,7 @@ Raw CSV → Python Cleaning & Feature Engineering → PostgreSQL Warehouse → P
 ## Project Screenshots
 
 ### Executive Dashboard Overview
-![Executive Dashboard](assets/dashboard_overview.png)
+![Executive Dashboard](assets/ice_screenshot_20260210-111033.png)
 
 ### Churn & Revenue Analysis Details
 ![Churn & Revenue](assets/ice_screenshot_20260210-110957.png)
