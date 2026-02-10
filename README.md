@@ -30,7 +30,7 @@ Raw CSV → Python Cleaning & Feature Engineering → PostgreSQL Warehouse → P
 ![Executive Dashboard](assets/dashboard_overview.png)
 
 ### Churn & Revenue Analysis Details
-![Churn & Revenue](assets/dashboard_details.png)
+![Churn & Revenue](assets/ice_screenshot_20260210-110957.png)
 
 ## Key KPIs
 - Churn Rate  
