@@ -24,6 +24,14 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 ## Workflow
 Raw CSV → Python Cleaning & Feature Engineering → PostgreSQL Warehouse → Power BI Dashboard
 
+## Project Screenshots
+
+### Executive Dashboard Overview
+![Executive Dashboard](assets/dashboard_overview.png)
+
+### Churn & Revenue Analysis Details
+![Churn & Revenue](assets/dashboard_details.png)
+
 ## Key KPIs
 - Churn Rate  
 - Active Customers  
